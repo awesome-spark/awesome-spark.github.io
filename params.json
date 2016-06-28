@@ -1,6 +1,6 @@
 {
   "name": "Awesome Spark",
   "tagline": "",
-  "body": "## Projects\r\n\r\n- [awesome-spark](https://github.com/awesome-spark/awesome-spark) - A curated list of awesome Apache Spark packages and resources.\r\n- [spark-gotchas](https://github.com/awesome-spark/spark-gotchas) - A collection of common problems with creating and maintaining Apache Spark applications.",
+  "body": "## Projects\r\n\r\n- [awesome-spark](https://github.com/awesome-spark/awesome-spark) - A curated list of awesome Apache Spark packages and resources.\r\n- [spark-gotchas](https://github.com/awesome-spark/spark-gotchas) - A collection of common problems with creating and maintaining Apache Spark applications.\r\n\r\n## BOINC\r\n\r\n- [World Community Grid Team]( http://www.worldcommunitygrid.org/team/viewTeamInfo.do?teamId=9NZNC0T172)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
